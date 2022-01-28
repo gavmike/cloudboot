@@ -7,6 +7,9 @@ import java.util.concurrent.*;
 @Slf4j
 public class ClearCache {
 //for test
+    //for amend
+    //for amend2
+    //for amend3
 
     ExecutorService executor = Executors.newFixedThreadPool(1, new ThreadFactory() {
         @Override
