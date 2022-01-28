@@ -7,6 +7,7 @@ import java.util.concurrent.*;
 @Slf4j
 public class ClearCache {
 
+
     ExecutorService executor = Executors.newFixedThreadPool(1, new ThreadFactory() {
         @Override
         public Thread newThread(Runnable r) {
