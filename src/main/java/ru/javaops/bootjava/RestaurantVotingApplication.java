@@ -22,6 +22,7 @@ private final     Servicetest servicetest;
 @Autowired
 UserRepository userRepository;
 
+    //for commit developer first
 
     public static void main(String[] args)  {
         SpringApplication.run(RestaurantVotingApplication.class, args);
