@@ -26,8 +26,8 @@ UserRepository userRepository;
     //second commit from origin
 
     //3 commit
-    //commit in feature github
-    //commit github
+    //commit in feature task 1
+    //commit idea
 
     public static void main(String[] args)  {
         SpringApplication.run(RestaurantVotingApplication.class, args);
