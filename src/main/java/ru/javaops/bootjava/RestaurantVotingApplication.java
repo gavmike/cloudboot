@@ -29,6 +29,7 @@ UserRepository userRepository;
     //commit in feature task 1
     //commit idea
     //for сквош
+    // for сквош2
 
     public static void main(String[] args)  {
         SpringApplication.run(RestaurantVotingApplication.class, args);
